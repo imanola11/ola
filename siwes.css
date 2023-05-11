@@ -1,0 +1,11 @@
+.p{
+    float: left;
+    text-decoration-color: red;
+    text-align: center;
+    margin-left: 70px;
+    margin-right: 10px;
+}
+.p2{
+    float: right;
+    margin-left: 80px;
+}
